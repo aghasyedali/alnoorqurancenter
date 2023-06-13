@@ -1,0 +1,31 @@
+body{
+    background-image: url("https://img.freepik.com/premium-photo/flat-lay-quran-light-pink-background_23-2148214361.jpg?w=826");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+    color: white;
+}
+p{
+    color: white;
+    font-family: arial black;
+    padding: 34px 19px;
+    width: 750px;
+
+}
+
+
+ul{
+    font-size: large;
+    font-family: Arial Black;
+    padding: 2%;
+
+}
+h1{
+    background-color: green;
+    padding: 34px 19px;
+    border-radius: 20px;
+    font-family: 'Times New Roman', Times, serif black;
+    width: 900px;
+
+}
